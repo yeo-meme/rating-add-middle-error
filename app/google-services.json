@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226749051058",
+    "firebase_url": "https://rating-db11a.firebaseio.com",
+    "project_id": "rating-db11a",
+    "storage_bucket": "rating-db11a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226749051058:android:a89d6c2f7994d7f2a1d9ab",
+        "android_client_info": {
+          "package_name": "com.nalazoocare.ratingaddt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226749051058-8e4s16mgob1f29dlf28eaau6s8i96vai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVSUTfmO9AufrRNRoD-67hvtlv4FPv7A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226749051058-8e4s16mgob1f29dlf28eaau6s8i96vai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
